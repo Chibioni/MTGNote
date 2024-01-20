@@ -58,7 +58,7 @@ tags:
 [Another Chance]: <../../Cards/Instants/Another Chance.md> "Another Chance / 更なるチャンス (2)(黒)"
 [Hidden Necropolis]: <../../Cards/Lands/Hidden Necropolis.md> "Hidden Necropolis / 隠された死滅都市"
 [Screaming Phantom]: <../../Cards/Creatures/Screaming Phantom.md> "Screaming Phantom / 泣き叫ぶ幻影 (2)(黒) 2/2"
-[The Mycotyrant]: <../../Cards/Creatures/The Mycotyrant.md> "The Mycotyrant / 帝王マイコイド (1)(黒)(緑) /"
+[The Mycotyrant]: <../../Cards/Creatures/The Mycotyrant.md> "The Mycotyrant / 帝王マイコイド (1)(黒)(緑) */*"
 [Jade Seedstones]: <../../Cards/Artifacts/Jade Seedstones.md> "Jade Seedstones / 翡翠の種石 (3)(緑)"
 [In the Presence of Ages]: <../../Cards/Instants/In the Presence of Ages.md> "In the Presence of Ages / 歴史との対峙 (2)(緑)"
 [Hidden Nursery]: <../../Cards/Lands/Hidden Nursery.md> "Hidden Nursery / 隠された生育場"
