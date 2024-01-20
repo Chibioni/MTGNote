@@ -7,7 +7,7 @@ tags :
   - Trample
   - Descended
 ---
-# The Mycotyrant / 帝王マイコイド (1)(黒)(緑) */*
+# The Mycotyrant / 帝王マイコイド (1)(黒)(緑) \*/\*
 
 * #クリーチャー
   * #伝説
