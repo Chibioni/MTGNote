@@ -2,7 +2,6 @@
 type: JumpInPackets
 tags:
   - JumpInPackets
-  - 黒
   - 緑
 ---
 # Rooted / 根ざす (緑)
