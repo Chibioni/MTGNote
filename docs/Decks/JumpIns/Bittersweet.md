@@ -4,7 +4,7 @@ tags:
   - JumpInPackets
   - 黒
 ---
-# Bittersweet (黒)
+# Bittersweet / ほろ苦い (黒)
 
 ## クリーチャー
 
