@@ -1,7 +1,7 @@
 ---
-type : KeywordAbility
+type : Counter
 tags : 
-  - StunCounter
+  - Stun
 ---
 # Stun Counter / 麻痺カウンター
 
