@@ -1,5 +1,8 @@
-
-
+---
+type : Enchantment
+tags : 
+  - 緑
+---
 # The Grand Evolution / 偉大なる進化
 
 * #エンチャント
